@@ -3,3 +3,15 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.centered.grid.mainMenu.container {
+  margin-top: 5px;
+}
+
+.ui.fitted.item {
+  color: black;
+}
+
+.ui.fluid.bigSurf.image {
+  margin-top: 25px;
+}
